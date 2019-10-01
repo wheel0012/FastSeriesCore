@@ -1,0 +1,3 @@
+D:\Library\workspace\simple_db\Solution Items\FastSeries.Sample\obj\Debug\netcoreapp3.0\FastSeries.Sample.csprojAssemblyReference.cache
+D:\Library\workspace\simple_db\Solution Items\FastSeries.Sample\obj\Debug\netcoreapp3.0\FastSeries.Sample.AssemblyInfoInputs.cache
+D:\Library\workspace\simple_db\Solution Items\FastSeries.Sample\obj\Debug\netcoreapp3.0\FastSeries.Sample.AssemblyInfo.cs

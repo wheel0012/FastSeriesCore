@@ -1,0 +1,8 @@
+D:\Library\workspace\simple_db\Solution Items\FastSeries\bin\Debug\netstandard2.0\FastSeries.deps.json
+D:\Library\workspace\simple_db\Solution Items\FastSeries\bin\Debug\netstandard2.0\FastSeries.dll
+D:\Library\workspace\simple_db\Solution Items\FastSeries\bin\Debug\netstandard2.0\FastSeries.pdb
+D:\Library\workspace\simple_db\Solution Items\FastSeries\obj\Debug\netstandard2.0\FastSeries.csprojAssemblyReference.cache
+D:\Library\workspace\simple_db\Solution Items\FastSeries\obj\Debug\netstandard2.0\FastSeries.AssemblyInfoInputs.cache
+D:\Library\workspace\simple_db\Solution Items\FastSeries\obj\Debug\netstandard2.0\FastSeries.AssemblyInfo.cs
+D:\Library\workspace\simple_db\Solution Items\FastSeries\obj\Debug\netstandard2.0\FastSeries.dll
+D:\Library\workspace\simple_db\Solution Items\FastSeries\obj\Debug\netstandard2.0\FastSeries.pdb
